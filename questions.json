@@ -1,0 +1,45 @@
+{
+  "heading": "G9NL_Poetry Analysis Part III(Writing)",
+  "topics": [
+    {
+      "heading": "Poetry Analysis Part III(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence using the word “Doughty,” which means: Brave, valiant, resolute in character.",
+          "text_area": "",
+          "answer": ["The doughty knight rode fearlessly into the fray, undaunted by the enemy’s numbers."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence using the word “Delineate,” which means: To describe, portray, or outline with precision.",
+          "text_area": "",
+          "answer": ["The scholar sought to delineate the complex causes of the rebellion with meticulous detail."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence using the word “Intrepidity,” which means: Fearless courage; resolute bravery.",
+          "text_area": "",
+          "answer": ["Her intrepidity in the face of danger won the admiration of all who witnessed her resolve."]
+        },
+         {
+          "questionNo": 4,
+          "type": "short",
+          "question": "Create a sentence using the word “Ossified,” which means: Hardened or rigid; literally turned to bone, metaphorically inflexible or stagnant.",
+          "text_area": "",
+          "answer": ["The council’s ossified traditions prevented any meaningful reform from taking root."]
+        },
+        {
+          "questionNo": 5,
+          "type": "long",
+          "question": "<b>Read the following poem and write a poetry analysis report (250-350 words)</b><br><u>You may use TWO body paragraphs:</u><span style = 'font-size: 1.2rem; '>Dreams<br>By Langston Hughes<br><br>Hold fast to dreams<br>For if dreams die<br>Life is a broken-winged bird<br>That cannot fly.<br>Hold fast to dreams<br>For when dreams go<br>Life is a barren field<br>Frozen with snow.</span><br><b><u>Hints:</u></b><br>1. Subject:<br>A warning about what happens when dreams are abandoned.<br>(The title tells us it is about Dreams. The first line cautions us to hold onto dreams. The rest of the poem repeats the idea of lost dreams and their consequences.)<br>2. Most prominent poetic devices:<br>Metaphor:<ul><li>\"Life is a broken-winged bird / That cannot fly\" directly equates a dreamless life with a bird that has lost its power of flight</li><li>\"Life is a barren field / Frozen with snow\" extends the same warning through a second image — a field that can grow nothing, sealed under frost.</li></ul>Anaphora — \"Hold fast to dreams\" opens both stanzas, giving the poem the structure of direct advice repeated for emphasis.<br>3. Theme(s):<br>The poem functions as a warning and a piece of guidance: hold on to dreams, because the alternative is not neutral; it is destructive.<br>Abandoning dreams does not simply leave life unchanged — it actively damages it, turning it barren and frozen rather than merely empty.",
+          "text_area": "",
+          "answer": [""]
+        }
+      ]
+    }
+  ]
+}
